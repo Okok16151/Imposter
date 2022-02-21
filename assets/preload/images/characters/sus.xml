@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sus.png"><SubTexture name="sus idle0000" x="0" y="0" width="132" height="100" frameX="0" frameY="0" frameWidth="132" frameHeight="100" />
+<SubTexture name="sus idle0001" x="132" y="0" width="133" height="100" frameX="0" frameY="0" frameWidth="133" frameHeight="100" />
+<SubTexture name="sus idle0002" x="265" y="0" width="133" height="100" frameX="0" frameY="0" frameWidth="133" frameHeight="100" />
+<SubTexture name="sus idle0003" x="0" y="100" width="133" height="100" frameX="0" frameY="0" frameWidth="133" frameHeight="100" />
+<SubTexture name="sus left0000" x="133" y="100" width="133" height="100" frameX="0" frameY="0" frameWidth="133" frameHeight="100" />
+<SubTexture name="sus left0001" x="266" y="100" width="132" height="100" frameX="0" frameY="0" frameWidth="132" frameHeight="100" />
+<SubTexture name="sus down0000" x="0" y="200" width="133" height="100" frameX="0" frameY="0" frameWidth="133" frameHeight="100" />
+<SubTexture name="sus down0001" x="133" y="200" width="132" height="100" frameX="0" frameY="0" frameWidth="132" frameHeight="100" />
+<SubTexture name="sus up0000" x="265" y="200" width="132" height="100" frameX="0" frameY="0" frameWidth="132" frameHeight="100" />
+<SubTexture name="sus up0001" x="0" y="300" width="133" height="100" frameX="0" frameY="0" frameWidth="133" frameHeight="100" />
+<SubTexture name="sus right0000" x="133" y="300" width="133" height="100" frameX="0" frameY="0" frameWidth="133" frameHeight="100" />
+<SubTexture name="sus right0001" x="266" y="300" width="133" height="100" frameX="0" frameY="0" frameWidth="133" frameHeight="100" />
+</TextureAtlas>
