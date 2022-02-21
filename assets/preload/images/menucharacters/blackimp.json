@@ -1,0 +1,10 @@
+{
+	"idle_anim": "idle",
+	"image": "Menu_BlackImp",
+	"position": [
+		338,
+		92
+	],
+	"scale": 0.55,
+	"confirm_anim": "M Dad Idle"
+}
