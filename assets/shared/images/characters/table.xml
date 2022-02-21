@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="table.png"><SubTexture name="table GF Dancing Beat0000" x="0" y="0" width="1290" height="237" frameX="0" frameY="0" frameWidth="1290" frameHeight="237" />
+<SubTexture name="table GF Dancing Beat0001" x="1290" y="0" width="1290" height="237" frameX="0" frameY="0" frameWidth="1290" frameHeight="237" />
+<SubTexture name="table GF Dancing Beat0002" x="0" y="237" width="1290" height="237" frameX="0" frameY="0" frameWidth="1290" frameHeight="237" />
+<SubTexture name="table GF Dancing Beat0003" x="1290" y="237" width="1290" height="237" frameX="0" frameY="0" frameWidth="1290" frameHeight="237" />
+</TextureAtlas>
